@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=shakib609/django-react-boilerplate)](https://dependabot.com)
+
+# Django React TypeScript Boilerplate
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and `django-admin`. This project aims to provide a simple boilerplate which integrates a `Django` back-end app with `React` front-end.
 
 ## Available Scripts
 
