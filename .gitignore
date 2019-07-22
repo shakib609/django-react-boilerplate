@@ -85,4 +85,6 @@ db.sqlite3
 .directory
 .idea/
 .vscode/
+
+# Django
 staticfiles/
