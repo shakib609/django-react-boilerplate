@@ -12,7 +12,7 @@ description = "A high-level Python Web framework that encourages rapid developme
 name = "django"
 optional = false
 python-versions = ">=3.5"
-version = "2.2.7"
+version = "2.2.8"
 
 [package.dependencies]
 pytz = "*"
@@ -89,7 +89,7 @@ python-versions = "^3.6"
 
 [metadata.hashes]
 dj-database-url = ["4aeaeb1f573c74835b0686a2b46b85990571159ffc21aa57ecd4d1e1cb334163", "851785365761ebe4994a921b433062309eb882fedd318e1b0fcecc607ed02da9"]
-django = ["16040e1288c6c9f68c6da2fe75ebde83c0a158f6f5d54f4c5177b0c1478c5b86", "89c2007ca4fa5b351a51a279eccff298520783b713bf28efb89dfb81c80ea49b"]
+django = ["a4ad4f6f9c6a4b7af7e2deec8d0cbff28501852e5010d6c2dc695d3d1fae7ca0", "fa98ec9cc9bf5d72a08ebf3654a9452e761fbb8566e3f80de199cbc15477e891"]
 django-heroku = ["2bc690aab89eedbe01311752320a9a12e7548e3b0ed102681acc5736a41a4762", "6af4bc3ae4a9b55eaad6dbe5164918982d2762661aebc9f83d9fa49f6009514e"]
 djangorestframework = ["5488aed8f8df5ec1d70f04b2114abc52ae6729748a176c453313834a9ee179c8", "dc81cbf9775c6898a580f6f1f387c4777d12bd87abf0f5406018d32ccae71090"]
 gunicorn = ["1904bb2b8a43658807108d59c3f3d56c2b6121a701161de0ddf9ad140073c626", "cd4a810dd51bf497552cf3f863b575dabd73d6ad6a91075b65936b151cbf4f9c"]
