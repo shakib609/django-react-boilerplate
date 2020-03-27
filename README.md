@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/983d344a052e46e380d96a0c4e520a18)](https://app.codacy.com/manual/shakib609/django-react-boilerplate?utm_source=github.com&utm_medium=referral&utm_content=shakib609/django-react-boilerplate&utm_campaign=Badge_Grade_Dashboard)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=shakib609/django-react-boilerplate)](https://dependabot.com)
 
 # Django React TypeScript Boilerplate
